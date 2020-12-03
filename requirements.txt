@@ -1,0 +1,5 @@
+python-telegram-bot
+pyvista
+numpy
+matplotlib
+pillow
